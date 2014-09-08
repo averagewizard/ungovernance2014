@@ -1,7 +1,7 @@
-ungovernance2014
+ungovernance2014 
 ================
 
-Internet Ungovernance Forum 2014 "Network Surveillance" Presentation
+Internet Ungovernance Forum 2014 "Network Surveillance" Presentation by [Barkın Kılıç](http://twitter.com/Barknkilic)
 
 You can take and use anything from these slides as you wish (though a lot is taken from others, you can find the sources on the last page of the .pdf document)  
 
